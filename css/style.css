@@ -725,6 +725,9 @@ footer{
 	#home .content h1{
 		font-size: 25px;
 	}
+	.sm a{
+		margin: 0 5px;
+	}
 	.btnt{
 		display: inline-block;
 		width: 40px;
@@ -737,6 +740,9 @@ footer{
 		font-size: 20px;
 		overflow: hidden;
 		position: relative;
+	}
+	.btnt i{
+		line-height: 30px;
 	}
 	.navbar-menu a{
 		display: block;
