@@ -716,7 +716,19 @@ footer{
 	.skill{
 		width: calc(100% - 20px);
 	}
+	.service{
+		width: calc(100% - 20px);
+	}
 	.gel-pic{
 		width: calc(100% - 20px);
+	}
+	#home .content h1{
+		font-size: 25px;
+	}
+	.about-pic{
+		width: 50px;
+	}
+	.sm{
+		font-size: 10px;
 	}
 }
