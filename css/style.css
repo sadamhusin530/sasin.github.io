@@ -122,7 +122,7 @@
 		color: #48dbfb;
 	}
 	50%{
-		content: " A Normal Human";
+		content: " Dreamer";
 		color: #48dbfb;
 	}
 	75%{
@@ -725,10 +725,12 @@ footer{
 	#home .content h1{
 		font-size: 25px;
 	}
-	.about-pic{
-		width: 50px;
-	}
 	.sm{
+		font-size: 10px;
+	}
+	.btnt {
+		width: 20px;
+		height: 20px;
 		font-size: 10px;
 	}
 }
