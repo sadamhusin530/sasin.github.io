@@ -21,9 +21,9 @@
         <div class="loader"></div>
     </div>
 	<script>
-        $(window).on("load",function(){
-            $(".loader-container").fadeOut(1000);
-        });
+		setTimeout(function(){
+			$('.loader-container').fadeToggle();
+		}, 1000);
     </script>
 	<!-- End Loader -->
 	<!-- Navbar -->
